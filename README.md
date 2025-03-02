@@ -14,27 +14,27 @@
     <tr>
       <td rowspan=6><a href="">1. Introduction to Python</a></td>
       <td>1</td>
-      <td>Python Basics, Development Environments, Arithmetic and Variables, Data Types <a href="">1.1 →</a></td>
+      <td>Python Basics, Development Environments, Arithmetic and Variables, Data Types <a href="lesson1.ipynb">1.1 →</a>, <a href="markdown.ipynb">Markdown →</a></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Conditions and Conditional Statements, Lists, Tuples, Sets, Dictionaries <a href="">1.2 →</a></td>
+      <td>Conditions and Conditional Statements, Lists, Tuples, Sets, Dictionaries <a href="lesson2.ipynb">1.2 →</a></td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Loops and List Comprehensions <a href="">1.3 →</a></td>
+      <td>Loops and List Comprehensions <a href="lesson3.ipynb">1.3 →</a></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Functions <a href="">1.4 →</a></td>
+      <td>Functions <a href="lesson4.ipynb">1.4 →</a></td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Working with files, exporting and importing data, working with external libraries, pandas, numpy <a href="">1.5 →</a></td>
+      <td>Working with files, exporting and importing data, working with external libraries, pandas, numpy</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Features of working with the API, parsing open data <a href="">1.6 →</a></td>
+      <td>Features of working with the API, parsing open data</td>
     </tr>
     <tr>
       <td rowspan=4><a href="">2. Data Processing, EDA, Visualization and Statistical analysis</a></td>
