@@ -30,11 +30,11 @@
     </tr>
     <tr>
       <td>5</td>
-      <td>Working with files, exporting and importing data, working with external libraries, pandas, numpy</td>
+      <td>Working with files, exporting and importing data, working with external libraries, pandas, numpy <a href="lesson5.ipynb">1.5 →</a></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Features of working with the API, parsing open data</td>
+      <td>Features of working with the API, parsing open data <a href="lesson6.ipynb">1.6 →</a></td>
     </tr>
     <tr>
       <td rowspan=4><a href="">2. Data Processing, EDA, Visualization and Statistical analysis</a></td>
