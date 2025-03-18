@@ -39,11 +39,11 @@
     <tr>
       <td rowspan=4><a href="">2. Data Processing, EDA, Visualization and Statistical analysis</a></td>
       <td>7</td>
-      <td><i>to be specified</i></td>
+      <td>Pandas. Creating, reading and writing data, summary functions, grouping and sorting etc. <a href="lesson7.ipynb">2.1 →</a></td>
     </tr>
     <tr>
       <td>8</td>
-      <td><i>to be specified</i></td>
+      <td>Visualization with Matplotlib, Seaborn, Plotly <a href="lesson8.ipynb">2.2 →</a></td>
     </tr>
     <tr>
       <td>9</td>
