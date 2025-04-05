@@ -47,11 +47,11 @@
     </tr>
     <tr>
       <td>9</td>
-      <td><i>to be specified</i></td>
+      <td>EDA, Statistics, Mathematical Operations and Calculations <a href="lesson9.ipynb">2.3 →</a></td>
     </tr>
     <tr>
       <td>10</td>
-      <td><i>to be specified</i></td>
+      <td>Analytics Project <a href="lesson10.ipynb">2.4 →</a></td>
     </tr>
     <tr>
       <td rowspan=4><a href="">3. Time series processing, Machine learning for prediction in Finance</a></td>
