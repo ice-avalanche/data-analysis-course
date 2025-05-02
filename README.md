@@ -54,25 +54,21 @@
       <td>Analytics Project <a href="lesson10.ipynb">2.4 →</a></td>
     </tr>
     <tr>
-      <td rowspan=3><a href="">3. Time series processing, Machine learning for prediction in Finance</a></td>
+      <td rowspan=2><a href="">3. Time series processing, Machine learning for prediction in Finance</a></td>
       <td>11</td>
       <td>Introduction to Time Series Analysis, Trends, Seasonality, Stationarity, ARMA/SARIMA, Evaluation  <a href="lesson11.ipynb">3.1 →</a></td>
     </tr>
     <tr>
       <td>12</td>
-      <td><i>to be specified</i></td>
+      <td>Machine Learning Basics, ML models, Evaluation, Case Study <a href="lesson12.ipynb">3.2 →</a></td>
     </tr>
     <tr>
+      <td rowspan=3><a href="">4. Solving practical problems</a></td>
       <td>13</td>
       <td><i>to be specified</i></td>
     </tr>
     <tr>
-      <td rowspan=3><a href="">4. Solving practical problems</a></td>
       <td>14</td>
-      <td><i>to be specified</i></td>
-    </tr>
-    <tr>
-      <td>15</td>
       <td><i>to be specified</i></td>
     </tr>
   </tbody>
