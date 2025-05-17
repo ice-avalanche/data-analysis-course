@@ -63,13 +63,9 @@
       <td>Machine Learning Basics, ML models, Evaluation, Case Study <a href="lesson12.ipynb">3.2 →</a></td>
     </tr>
     <tr>
-      <td rowspan=3><a href="">4. Solving practical problems</a></td>
+      <td rowspan=2><a href="">4. Solving practical problems</a></td>
       <td>13</td>
-      <td><i>to be specified</i></td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td><i>to be specified</i></td>
+      <td>Case Studies: Time Series Forecasting, Bankruptcy Risk Classification, Cryptocurrency Cluster Analysis <a href="lesson13.ipynb">4.1 →</a></td>
     </tr>
   </tbody>
 </table>
